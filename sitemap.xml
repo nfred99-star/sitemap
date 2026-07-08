@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:fo="http://www.w3.org/1999/XSL/Format"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
@@ -9,64 +13,68 @@
 
 <url>
   <loc>https://www.spmzs.com/</loc>
-  <lastmod>2026-04-08T16:38:19+00:00</lastmod>
+  <lastmod>2026-07-08T21:40:20+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://www.spmzs.com/welcome</loc>
-  <lastmod>2026-04-08T16:38:19+00:00</lastmod>
+  <lastmod>2026-07-08T21:40:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.spmzs.com/acerca-de-nosotros</loc>
-  <lastmod>2026-04-08T16:38:19+00:00</lastmod>
+  <lastmod>2026-07-08T21:40:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.spmzs.com/cursos</loc>
-  <lastmod>2026-04-08T16:38:19+00:00</lastmod>
+  <lastmod>2026-07-08T21:40:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.spmzs.com/consultoria</loc>
-  <lastmod>2026-04-08T16:38:19+00:00</lastmod>
+  <lastmod>2026-07-08T21:40:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.spmzs.com/outsourcing</loc>
-  <lastmod>2026-04-08T16:38:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.spmzs.com/equipos-a-la-venta</loc>
-  <lastmod>2026-04-08T16:38:19+00:00</lastmod>
+  <lastmod>2026-07-08T21:40:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.spmzs.com/gesti%C3%B3n-documental</loc>
-  <lastmod>2026-04-08T16:38:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.spmzs.com/soluciones-open-source</loc>
-  <lastmod>2026-04-08T16:38:19+00:00</lastmod>
+  <lastmod>2026-07-08T21:40:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.spmzs.com/servicios-inform%C3%A1ticos</loc>
-  <lastmod>2026-04-08T16:38:19+00:00</lastmod>
+  <lastmod>2026-07-08T21:40:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.spmzs.com/servicios-inform%C3%A1ticos/soluciones-open-source</loc>
+  <lastmod>2026-07-08T21:40:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.spmzs.com/servicios-inform%C3%A1ticos/aplicaciones-a-la-medida</loc>
+  <lastmod>2026-07-08T21:40:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.spmzs.com/equipos-a-la-venta</loc>
+  <lastmod>2026-07-08T21:40:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.spmzs.com/contacto</loc>
-  <lastmod>2026-04-08T16:38:19+00:00</lastmod>
+  <lastmod>2026-07-08T21:40:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.spmzs.com/pol%C3%ADtica-de-privacidad</loc>
-  <lastmod>2026-04-08T16:38:19+00:00</lastmod>
+  <lastmod>2026-07-08T21:40:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-
 
 </urlset>
